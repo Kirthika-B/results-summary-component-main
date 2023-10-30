@@ -22,7 +22,7 @@ body {
 }
 .Your_Result {
   color: hsla(221, 100%, 96%, 0.8);
-  padding: 15px;
+  padding: 17px;
   font-size: 19px;
 
   font-weight: 500;
@@ -58,7 +58,7 @@ body {
 
 .Great {
   color: hsl(221, 100%, 96%);
-  margin-top: 2em;
+  margin-top: 2.5em;
 
   font-weight: 700;
 }
@@ -67,14 +67,14 @@ p {
   color: hsla(0, 0%, 100%, 0.7);
 
   display: inline-block;
-  font-size: 16px;
-  font-weight: lighter;
-  width: 75%;
+  font-size: 18px;
+  font-weight: 500;
+  width: 95%;
 }
 .right_summary_card {
   align-items: center;
   justify-content: center;
-  padding: 14px;
+  padding: 20px;
 }
 
 .summary {
@@ -105,7 +105,7 @@ p {
   border-radius: 10px;
   display: flex;
   padding: 12px 25px;
-  margin-bottom: 12px;
+  margin-bottom: 16px;
   justify-content: space-between;
 }
 .split1 {
@@ -169,18 +169,18 @@ a:hover {
     border-radius: 20px;
   }
   .left_score_board {
-    width: 300px;
+    width: 50%;
     border-radius: 20px;
     padding: 15px;
   }
   .right_summary_card {
-    width: 300px;
+    width: 45%;
 
     border-radius: 20px;
   }
   .score_card {
-    width: 8.5em;
-    height: 8.5em;
+    width: 8em;
+    height: 8em;
   }
   .Your_Result {
   }
